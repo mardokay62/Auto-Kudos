@@ -32,5 +32,9 @@ pip install requests flask
 ```bash
 export CLIENT_ID=" "
 export CLIENT_SECRET=" "
-...
+```
+
+#### 3. Set Oauth 
+- 
+
 
