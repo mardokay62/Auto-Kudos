@@ -37,3 +37,6 @@ export CLIENT_SECRET=" "
 #### 3. Set Oauth 
 - https://github.com/django-oauth/django-oauth-toolkit
 
+
+#### 4. Testing 
+- 
